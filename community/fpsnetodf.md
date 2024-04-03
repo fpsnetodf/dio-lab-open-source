@@ -1,12 +1,12 @@
 # Francisco Paulo da Silva Neto
 
-Formado em Administração de Empresa. Tive meu primeiro contato com programação atravez do Arduino, depois busquei me aprofundar na linguagem Python e Desenvolvimento web com Django, buscando me desenvolver cada vez mais e atrás de desafios e oportunidades.
+Formado em Administração de Empresa. Tive meu primeiro contato com programação atravez do Arduino, depois a linguagem Python, javascript e Desenvolvimento web com Django, buscando me desenvolver cada vez mais, aberto a novos e desafios e em busca de oportunidades.
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/ivanildoodlinavi65)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:ivanildoodlinavi65@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/0dl1n/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/leociclista)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:fps_netodf@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/francisco-paulo-da-silva-2a7986187/)
 
 ### Habilidades
 
